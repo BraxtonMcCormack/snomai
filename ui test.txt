@@ -1,0 +1,21 @@
+Select Project Type.
+
+Recut:
+Back Button
+
+Set Source File or Download from youtube.
+Set Output Location.
+Select Clip Directory. Defalut is ...
+Set watermark.
+
+Select txt file of timestamp floats or enter list yourself.
+
+Cut Button. Stops so you can check clips.
+
+Output Length.( it will be a little longer than what you put in in minutes since it will round. Generates the array of chosen clips.)
+
+Generate Output.
+
+Check your work then a clean button that deletes downloaded origional and temp clips.
+
+Voiceover:
